@@ -5,7 +5,7 @@
 
 <p align="right"> <a href="https://twitter.com/catalystswarm" target="blank"><img src="https://img.shields.io/twitter/follow/catalystswarm?logo=twitter&style=for-the-badge" alt="catalystswarm" /></a> </p>
 
-Swarm’s Presentation
+<h1 align="left">Swarm’s Presentation</h3>
 
 🔶 As the Cardano community expands, due to the largest project to fund proposals today (the Catalyst Project), it became urgent to have a ***group of experienced people in this universe***. Therefore, we, together, ***work towards the development of several parallel projects that concern the maintenance and evolution of the community***.
 
