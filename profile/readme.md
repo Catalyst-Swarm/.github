@@ -14,6 +14,8 @@ Swarm’s Presentation
 
 🔶 Swarm's philosophy is different. The important thing for Swarm, is to promote change, through the work of autonomous and truly engaged individuals. You can better understand the inner workings of the group in [this](https://www.notion.so/2be1384360c84edca39261523530c1c9).
 
+
+
 [![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=catalystswarm)](https://github.com/gazf/github-readme-twitter) 
 
 <h3 align="right">Connect with The Catalyst Swarm:</h3>
