@@ -12,7 +12,7 @@ Swarm’s Presentation
 
 🔷 Our work is very wide and is made up of several people, of different nationalities, origins and social contexts. In other words, it is a very ***heterogeneous and versatile team***, since each one has a performance that is more harmonious with what they have skills and, above all, interests.
 
-🔶 Swarm's philosophy is different. The important thing for Swarm, is to promote change, through the work of autonomous and truly engaged individuals. You can better understand the inner workings of the group in [this](https://www.notion.so/2be1384360c84edca39261523530c1c9).
+🔶 Swarm's philosophy is different. The important thing for Swarm, is to promote change, through the work of autonomous and truly engaged individuals. You can better understand the inner workings of the group in [this](https://github.com/Catalyst-Swarm/.github/blob/2c0a9bad775d47f06975a1f11fc63a117bad0a5e/README.md).
 
 
 
