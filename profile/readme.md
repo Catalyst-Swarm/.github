@@ -1,7 +1,6 @@
 <h1 align="center">The Catalyst Swarm</h3>
 
 
-
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=catalyst-swarm&label=Profile%20views&color=0e75b6&style=flat" alt="catalyst-swarm" /> </p>
 
 <p align="right"> <a href="https://twitter.com/catalystswarm" target="blank"><img src="https://img.shields.io/twitter/follow/catalystswarm?logo=twitter&style=for-the-badge" alt="catalystswarm" /></a> </p>
@@ -14,7 +13,37 @@ Swarm’s Presentation
 
 🔶 Swarm's philosophy is different. The important thing for Swarm, is to promote change, through the work of autonomous and truly engaged individuals. You can better understand the inner workings of the group in [this](https://github.com/Catalyst-Swarm/.github/blob/2c0a9bad775d47f06975a1f11fc63a117bad0a5e/README.md).
 
+<h1 align="left">Our GitBooks</h3>
 
+🔶 [LATAM Cardano Community](https://catalyst-swarm.gitbook.io/latam-cardano-community/) 
+
+🔷 [Treasury](https://treasury-guild.gitbook.io/catalyst-swarm/)
+
+🔶 [Catalyst Circle](https://catalyst-swarm.gitbook.io/catalyst-circle/)
+
+🔷 [Catalyst Swarm Genesis](https://catalyst-swarm.gitbook.io/catalyst-swarm-genesis/)
+
+🔶 [Catalyst Eastern Hemisphere](https://catalyst-swarm.gitbook.io/catalyst-eastern-hemisphere/)
+
+🔷 [Governance Services Guide](https://catalyst-swarm.gitbook.io/governance-services-guild/)
+
+🔶 [Catalyst Swarm 2022](https://catalyst-swarm.gitbook.io/catalyst-swarm-2022/)
+
+🔷 [Catalyst School](https://catalyst-swarm.gitbook.io/the-catalyst-school/)
+
+🔶 [Portuguese’s Gitbook](https://catalyst-swarm.gitbook.io/portugues/)
+
+🔷 [Catalyst School from Brazil](https://catalyst-swarm.gitbook.io/catalyst-school-brasil/)
+
+🔶 [Portuguese’s Catalyst School](https://catalyst-swarm.gitbook.io/the-catalyst-school/v/portuguese/)
+
+🔷  [Catalyst School from Latam](https://catalyst-swarm.gitbook.io/catalyst-school-latam/)
+
+<h1 align="left">Contact Us</h3>
+
+🔷 On [Discord](https://discord.com) you can talk to **Felix [SWARM] #9839** or with **livia#8635**
+
+🔶 On [Telegram](https://telegram.org) you can talk to **@FelixfromSwarm** or with **@LiviaCorcino**
 
 [![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=catalystswarm)](https://github.com/gazf/github-readme-twitter) 
 
