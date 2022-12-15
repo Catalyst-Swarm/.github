@@ -50,6 +50,6 @@
 <h3 align="right">Connect with The Catalyst Swarm:</h3>
 <p align="right">
 <a href="https://twitter.com/catalystswarm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="catalystswarm" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/https://www.youtube.com/@catalystswarm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@catalystswarm" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@catalystswarm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@catalystswarm" height="30" width="40" /></a>
 <a href="https://discord.gg/https://discord.gg/9pbRF2PfcU" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/9pbRF2PfcU" height="30" width="40" /></a>
 </p>
