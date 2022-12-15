@@ -45,7 +45,7 @@
 
 🔶 On [Telegram](https://telegram.org) you can talk to **@FelixfromSwarm** or with **@LiviaCorcino**
 
-[![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=catalystswarm)](https://github.com/gazf/github-readme-twitter) 
+[![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=catalystswarm)](https://twitter.com/CatalystSwarm) 
 
 <h3 align="right">Connect with The Catalyst Swarm:</h3>
 <p align="right">
